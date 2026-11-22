@@ -1,0 +1,1 @@
+Dataset: Modelo_Hibrido_ML_Python-Dataset.csv. CSV original en formato Windows-1252, fechas MM/DD/YYYY, precios con símbolo $. Se normalizaron nombres, tipos y orden cronológico. Periodo: 2010-03-01 a 2020-02-28. No se ha verificado externamente el proveedor ni los ajustes por splits/dividendos; el archivo original no incluye precio ajustado ni ticker verificable.
